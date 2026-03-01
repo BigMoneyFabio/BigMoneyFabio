@@ -1,5 +1,5 @@
 # About Me
-I'm Fabio, half italian and half swiss. As of right now I'm preparing for the CQF after my bachelor's degree in Economics. I'm currently learning all about Github, Conding and all of its mysteries. The fact that you landed on my profile probably means that you've either lost your way or searched for exactly this, a student trying to get into Quant Finance.
+I'm Fabio👍
 
 <!--
 **BigMoneyFabio/BigMoneyFabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
